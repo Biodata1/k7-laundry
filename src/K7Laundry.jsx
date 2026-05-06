@@ -83,7 +83,7 @@ const pricelist = [
   { layanan: "Cuci Kering Express", harga: "Rp 3.000", satuan: "/kg", tipe: "Express" },
 ];
 
-const WA_NUMBER = "6283899785900";
+const WA_NUMBER = "6283897448757";
 
 export default function K7Laundry() {
   const [form, setForm] = useState({
@@ -336,7 +336,7 @@ export default function K7Laundry() {
               </div>
               <div>
                 <p className="text-xs text-gray-400 font-semibold uppercase tracking-wide mb-1">WhatsApp</p>
-                <p className="font-bold text-gray-800">0838 9978 5900</p>
+                <p className="font-bold text-gray-800">0838 9744 8757</p>
                 <p className="text-green-600 text-xs font-medium mt-0.5">Klik untuk chat →</p>
               </div>
             </a>
