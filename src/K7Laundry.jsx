@@ -83,7 +83,7 @@ const pricelist = [
   { layanan: "Cuci Kering Express", harga: "Rp 3.000", satuan: "/kg", tipe: "Express" },
 ];
 
-const WA_NUMBER = "6283897448757";
+const WA_NUMBER = "6283899785900";
 
 export default function K7Laundry() {
   const [form, setForm] = useState({
